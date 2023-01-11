@@ -1,0 +1,80 @@
+C:\Users\Emil\Desktop\Battle\bin\Debug\net6.0-windows\Battle.exe
+C:\Users\Emil\Desktop\Battle\bin\Debug\net6.0-windows\Battle.deps.json
+C:\Users\Emil\Desktop\Battle\bin\Debug\net6.0-windows\Battle.runtimeconfig.json
+C:\Users\Emil\Desktop\Battle\bin\Debug\net6.0-windows\Battle.dll
+C:\Users\Emil\Desktop\Battle\bin\Debug\net6.0-windows\Battle.pdb
+C:\Users\Emil\Desktop\Battle\obj\Debug\net6.0-windows\Battle.csproj.AssemblyReference.cache
+C:\Users\Emil\Desktop\Battle\obj\Debug\net6.0-windows\Battle.Form1.resources
+C:\Users\Emil\Desktop\Battle\obj\Debug\net6.0-windows\Battle.csproj.GenerateResource.cache
+C:\Users\Emil\Desktop\Battle\obj\Debug\net6.0-windows\Battle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\Desktop\Battle\obj\Debug\net6.0-windows\Battle.AssemblyInfoInputs.cache
+C:\Users\Emil\Desktop\Battle\obj\Debug\net6.0-windows\Battle.AssemblyInfo.cs
+C:\Users\Emil\Desktop\Battle\obj\Debug\net6.0-windows\Battle.csproj.CoreCompileInputs.cache
+C:\Users\Emil\Desktop\Battle\obj\Debug\net6.0-windows\Battle.dll
+C:\Users\Emil\Desktop\Battle\obj\Debug\net6.0-windows\refint\Battle.dll
+C:\Users\Emil\Desktop\Battle\obj\Debug\net6.0-windows\Battle.pdb
+C:\Users\Emil\Desktop\Battle\obj\Debug\net6.0-windows\Battle.genruntimeconfig.cache
+C:\Users\Emil\Desktop\Battle\obj\Debug\net6.0-windows\ref\Battle.dll
+C:\Users\Emil\Desktop\ip\geopoint cli\bin\Debug\net6.0-windows\Battle.exe
+C:\Users\Emil\Desktop\ip\geopoint cli\bin\Debug\net6.0-windows\Battle.deps.json
+C:\Users\Emil\Desktop\ip\geopoint cli\bin\Debug\net6.0-windows\Battle.runtimeconfig.json
+C:\Users\Emil\Desktop\ip\geopoint cli\bin\Debug\net6.0-windows\Battle.dll
+C:\Users\Emil\Desktop\ip\geopoint cli\bin\Debug\net6.0-windows\Battle.pdb
+C:\Users\Emil\Desktop\ip\geopoint cli\obj\Debug\net6.0-windows\Battle.csproj.AssemblyReference.cache
+C:\Users\Emil\Desktop\ip\geopoint cli\obj\Debug\net6.0-windows\Battle.csproj.GenerateResource.cache
+C:\Users\Emil\Desktop\ip\geopoint cli\obj\Debug\net6.0-windows\Battle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\Desktop\ip\geopoint cli\obj\Debug\net6.0-windows\Battle.AssemblyInfoInputs.cache
+C:\Users\Emil\Desktop\ip\geopoint cli\obj\Debug\net6.0-windows\Battle.AssemblyInfo.cs
+C:\Users\Emil\Desktop\ip\geopoint cli\obj\Debug\net6.0-windows\Battle.csproj.CoreCompileInputs.cache
+C:\Users\Emil\Desktop\ip\geopoint cli\obj\Debug\net6.0-windows\Battle.dll
+C:\Users\Emil\Desktop\ip\geopoint cli\obj\Debug\net6.0-windows\refint\Battle.dll
+C:\Users\Emil\Desktop\ip\geopoint cli\obj\Debug\net6.0-windows\Battle.pdb
+C:\Users\Emil\Desktop\ip\geopoint cli\obj\Debug\net6.0-windows\Battle.genruntimeconfig.cache
+C:\Users\Emil\Desktop\ip\geopoint cli\obj\Debug\net6.0-windows\ref\Battle.dll
+C:\Users\Emil\Desktop\ip\geopoint cli\obj\Debug\net6.0-windows\Battle.Properties.Resources.resources
+C:\Users\Emil\Desktop\ip\geopoint cli\obj\Debug\net6.0-windows\Battle.Menu.resources
+C:\Users\Emil\Desktop\ip\geopoint cli\obj\Debug\net6.0-windows\Battle.Maps.resources
+C:\Users\Emil\Desktop\ip\geopoint cli\obj\Debug\net6.0-windows\Battle..resources
+C:\Users\Emil\Desktop\ip\geopoint cli\obj\Debug\net6.0-windows\Battle.Game.resources
+C:\Users\Emil\Desktop\ip\solar harvest\bin\Debug\net6.0-windows\Battle.exe
+C:\Users\Emil\Desktop\ip\solar harvest\bin\Debug\net6.0-windows\Battle.deps.json
+C:\Users\Emil\Desktop\ip\solar harvest\bin\Debug\net6.0-windows\Battle.runtimeconfig.json
+C:\Users\Emil\Desktop\ip\solar harvest\bin\Debug\net6.0-windows\Battle.dll
+C:\Users\Emil\Desktop\ip\solar harvest\bin\Debug\net6.0-windows\Battle.pdb
+C:\Users\Emil\Desktop\ip\solar harvest\obj\Debug\net6.0-windows\Battle.csproj.AssemblyReference.cache
+C:\Users\Emil\Desktop\ip\solar harvest\obj\Debug\net6.0-windows\Battle..resources
+C:\Users\Emil\Desktop\ip\solar harvest\obj\Debug\net6.0-windows\Battle.Game.resources
+C:\Users\Emil\Desktop\ip\solar harvest\obj\Debug\net6.0-windows\Battle.Maps.resources
+C:\Users\Emil\Desktop\ip\solar harvest\obj\Debug\net6.0-windows\Battle.Menu.resources
+C:\Users\Emil\Desktop\ip\solar harvest\obj\Debug\net6.0-windows\Battle.Properties.Resources.resources
+C:\Users\Emil\Desktop\ip\solar harvest\obj\Debug\net6.0-windows\Battle.csproj.GenerateResource.cache
+C:\Users\Emil\Desktop\ip\solar harvest\obj\Debug\net6.0-windows\Battle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\Desktop\ip\solar harvest\obj\Debug\net6.0-windows\Battle.AssemblyInfoInputs.cache
+C:\Users\Emil\Desktop\ip\solar harvest\obj\Debug\net6.0-windows\Battle.AssemblyInfo.cs
+C:\Users\Emil\Desktop\ip\solar harvest\obj\Debug\net6.0-windows\Battle.csproj.CoreCompileInputs.cache
+C:\Users\Emil\Desktop\ip\solar harvest\obj\Debug\net6.0-windows\Battle.dll
+C:\Users\Emil\Desktop\ip\solar harvest\obj\Debug\net6.0-windows\refint\Battle.dll
+C:\Users\Emil\Desktop\ip\solar harvest\obj\Debug\net6.0-windows\Battle.pdb
+C:\Users\Emil\Desktop\ip\solar harvest\obj\Debug\net6.0-windows\Battle.genruntimeconfig.cache
+C:\Users\Emil\Desktop\ip\solar harvest\obj\Debug\net6.0-windows\ref\Battle.dll
+C:\Users\Emil\Desktop\solar harvest\bin\Debug\net6.0-windows\Battle.exe
+C:\Users\Emil\Desktop\solar harvest\bin\Debug\net6.0-windows\Battle.deps.json
+C:\Users\Emil\Desktop\solar harvest\bin\Debug\net6.0-windows\Battle.runtimeconfig.json
+C:\Users\Emil\Desktop\solar harvest\bin\Debug\net6.0-windows\Battle.dll
+C:\Users\Emil\Desktop\solar harvest\bin\Debug\net6.0-windows\Battle.pdb
+C:\Users\Emil\Desktop\solar harvest\obj\Debug\net6.0-windows\Battle.csproj.AssemblyReference.cache
+C:\Users\Emil\Desktop\solar harvest\obj\Debug\net6.0-windows\Battle..resources
+C:\Users\Emil\Desktop\solar harvest\obj\Debug\net6.0-windows\Battle.Game.resources
+C:\Users\Emil\Desktop\solar harvest\obj\Debug\net6.0-windows\Battle.Maps.resources
+C:\Users\Emil\Desktop\solar harvest\obj\Debug\net6.0-windows\Battle.Menu.resources
+C:\Users\Emil\Desktop\solar harvest\obj\Debug\net6.0-windows\Battle.Properties.Resources.resources
+C:\Users\Emil\Desktop\solar harvest\obj\Debug\net6.0-windows\Battle.csproj.GenerateResource.cache
+C:\Users\Emil\Desktop\solar harvest\obj\Debug\net6.0-windows\Battle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\Desktop\solar harvest\obj\Debug\net6.0-windows\Battle.AssemblyInfoInputs.cache
+C:\Users\Emil\Desktop\solar harvest\obj\Debug\net6.0-windows\Battle.AssemblyInfo.cs
+C:\Users\Emil\Desktop\solar harvest\obj\Debug\net6.0-windows\Battle.csproj.CoreCompileInputs.cache
+C:\Users\Emil\Desktop\solar harvest\obj\Debug\net6.0-windows\Battle.dll
+C:\Users\Emil\Desktop\solar harvest\obj\Debug\net6.0-windows\refint\Battle.dll
+C:\Users\Emil\Desktop\solar harvest\obj\Debug\net6.0-windows\Battle.pdb
+C:\Users\Emil\Desktop\solar harvest\obj\Debug\net6.0-windows\Battle.genruntimeconfig.cache
+C:\Users\Emil\Desktop\solar harvest\obj\Debug\net6.0-windows\ref\Battle.dll
